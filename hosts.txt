@@ -8,3 +8,13 @@
 0.0.0.0 rakuten.tv
 0.0.0.0 wuaki.tv
 0.0.0.0 samsung.images.watchmi.tv
+0.0.0.0 mercury.dnitv.com
+0.0.0.0 images-1.wuaki.tv
+0.0.0.0 dsa.moatads.com
+0.0.0.0 event.movad.de
+0.0.0.0 trk.sensic.net
+0.0.0.0 trace.svc.ui.com
+0.0.0.0 gewinnendesuche.site
+0.0.0.0 adfarm1.adition.com
+0.0.0.0 s1.fwmrm.net
+0.0.0.0 dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com
