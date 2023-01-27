@@ -1,0 +1,10 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Personal Ad Block List
+# Expires: 1 day
+# Torrent list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 config.samsungads.com
+0.0.0.0 samsungads.com
+0.0.0.0 rakuten.tv
+0.0.0.0 wuaki.tv
+0.0.0.0 samsung.images.watchmi.tv
