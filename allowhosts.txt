@@ -6,8 +6,15 @@ alamos-backend.ey.r.appspot.com
 assets.adobedtm.com
 mask-h2.icloud.com
 mask.icloud.com
-mask-h2.icoud.com
 api.ipify.org
 api.eu-west-1.aiv-delivery.net
 unagi-na.amazon.com
 fls-eu.amazon.com
+toggolino.de
+ils-ts.de
+ffw-mehring.de
+connect-api.froeling.com
+froeling.com
+bambulab.com
+bambulab.cn
+feuerwehr-burghausen.de	
