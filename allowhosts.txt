@@ -4,8 +4,6 @@ login.microsoftonline.com
 mobile.pipe.aria.microsoft.com
 alamos-backend.ey.r.appspot.com
 assets.adobedtm.com
-mask-h2.icloud.com
-mask.icloud.com
 api.ipify.org
 api.eu-west-1.aiv-delivery.net
 unagi-na.amazon.com
